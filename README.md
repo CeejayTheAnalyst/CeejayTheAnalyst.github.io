@@ -20,12 +20,13 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
-### Building and Automation App Using NLP Model  
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
+### Sentence Similarity Retrival App Using Bert and Streamlit UI
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+[HuggingFace Link](https://huggingface.co/spaces/ceejaytheanalyst/Insurance_code_mapping)
+
+Streamlit application designed for non-technical stakeholders. The application utilizes natural language processing (NLP) techniques to map user-provided clinical description texts to relevant medical codes
+
+
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
