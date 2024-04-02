@@ -21,7 +21,6 @@
 
 ## Projects
 ### Sentence Similarity Retrival App Using Bert and Streamlit UI
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 [HuggingFace Link](https://huggingface.co/spaces/ceejaytheanalyst/Insurance_code_mapping)
 
 Streamlit application designed for non-technical stakeholders. The application utilizes natural language processing (NLP) techniques to map user-provided clinical description texts to relevant medical codes
